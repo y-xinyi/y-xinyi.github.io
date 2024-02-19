@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xinyi Ye/Research Profile"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Xinyi Ye"
   pronouns         : "she/her"  
-  bio              : "MA student at Penn researching East Asian material and sound culture"
+  bio              : "Penn Grad student researching Chinese textiles & music"
   location         : "Philadelphia, PA"
   employer         : "University of Pennsylvania"
   uri              : https://ealc.sas.upenn.edu/people/xinyi-ye
