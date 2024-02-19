@@ -21,22 +21,17 @@ Research Areas
 I am interested in interdisciplinary and transregional research on a variety of humanities subjects. Here are some topics that interest me:
 
 - East Asian textiles
-
 - Historiography of Chinese art history & material culture
-
 - Folk music/ethnomusicology of East Asia and the Americas
-
 - Global Jazz
-
 - Cultural heritage site protection and tourism
-
 - Digital humanities
 
 I am also interested in exploring unconventional/multimedia publication forms for academic research.
 
 Contact
 ------
-I can be reached via email at xinyiye@sas.upenn.edu
+I can be reached via email at xinyiye@sas.upenn.edu.
 
 Feel free to contact me for any reason, such as research collaboration, learning about college/graduate school experience, or simply finding someone to chitchat. 
 
