@@ -11,37 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* "M.A. in East Asian Languages and Civilizations, University of Pennsylvania, 2025 (Expected)"
+* B.A. in Art History, Music, and French, University of Hong Kong, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sept 2023 – Present: Graduate Guide
+  * Penn Museum
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept 2023 – Present: Gallery Ambassador
+  * Institute of Contemporary Art, Philadelphia
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#* Summer 2015: Research Assistant
+  #* Github University
+  #* Duties included: Tagging issues
+  #* Supervisor: Professor Git
   
-Skills
+#Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#* Skill 1
+#* Skill 2
+  #* Sub-skill 2.1
+  #* Sub-skill 2.2
+  #* Sub-skill 2.3
+#* Skill 3
 
-Publications
+#Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
