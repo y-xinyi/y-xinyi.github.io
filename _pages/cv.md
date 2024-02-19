@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* "M.A. in East Asian Languages and Civilizations, University of Pennsylvania, 2025 (Expected)"
+* M.A. in East Asian Languages and Civilizations, University of Pennsylvania, 2025 (Expected)
 * B.A. in Art History, Music, and French, University of Hong Kong, 2023
 
 Work experience
