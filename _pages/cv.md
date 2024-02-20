@@ -33,9 +33,9 @@ Skills
   * Samba percussion
 * Currently learning swing dance
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
+<Publications
+<======>
+  <<ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -49,9 +49,12 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>>
   
 Service and leadership
 ======
-Member, Graduate Student Research Colloquium, Department East Asian Languages and Civilizations, University of Pennsylvania
-Department Representative, SASGov (School of Arts & Science Graduate Division Student Government), University of Pennsylvania
+* Member, Graduate Student Research Colloquium
+  * Department East Asian Languages and Civilizations, University of Pennsylvania
+  
+* Department Representative
+  * SASGov (School of Arts & Science Graduate Student Government), University of Pennsylvania
