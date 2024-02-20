@@ -33,11 +33,11 @@ Skills
   * Samba percussion
 * Currently learning swing dance
 
-#Publications
-#======
-#  <ul>{% for post in site.publications reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
@@ -49,7 +49,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>>
+  {% endfor %}</ul>
   
 Service and leadership
 ======
