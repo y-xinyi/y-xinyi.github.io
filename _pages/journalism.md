@@ -48,26 +48,31 @@ author_profile: true
   Observer, Feb 24, 2025<br>
   I connected with the Canadian-American artist to discuss his interest in defying institutional frameworks, the whitewashing of Asian American history and his approach to making public art.
 
-### 2023
-- [Article Title 2](https://example.com)  
-  Observer, May 13, 2025<br>
-  A brief summary of another article.
+### 2024
+- [Resisting Order and Power in ‘Le Contre-Ciel’](https://artasiapacific.com/shows/resisting-order-and-power-in-le-contre-ciel)  
+  ArtAsiaPacific, May 16, 2024<br>
+  Curator Olivia Shao explores acts of ritual and resistance at Hong Kong's Empty Gallery.
 
-- [Article Title 2](https://example.com)  
-  Observer, May 13, 2025<br>
-  A brief summary of another article.
+- [Hoor Al Qasimi Named Artistic Director of Biennale of Sydney 2026](https://archive.artasiapacific.com/news/hoor-al-qasimi-named-artistic-director-of-biennale-of-sydney-2026)  
+  ArtAsiaPacific, May 16, 2025<br>
+  The Biennale of Sydney announced that Hoor Al Qasimi, the president and director of the Sharjah Art Foundation, will become artistic director of the 25th Biennale of Sydney. 
+
+- [Iranian Cartoonist and Political Dissident Arrested Again](https://www.artasiapacific.com/news/iranian-cartoonist-and-political-dissident-arrested-again/)  
+  ArtAsiaPacific, Apr 26, 2024<br>
+  Iranian artist Atena Farghadani was arrested by intelligence officers of the Islamic Revolutionary Guard Corps.
+
+- [Met Returns Sculptures and Signs Memorandum with Thailand](https://www.artasiapacific.com/news/met-returns-sculptures-and-signs-memorandum-with-thailand/)  
+  ArtAsiaPacific, Apr 29, 2024<br>
+  The Met and Thailand’s Ministry of Culture signed a Memorandum to collaborate on the display and research of Thai art.
 
 ### 2021
-- Title: [Important Article Title 1](https://example.com)  
-  Publication: Publication Name  
-  Date: Month Day, Year  
-  Summary: A brief summary of an important article.
-
-- Title: [Important Article Title 2](https://example.com)  
-  Publication: Publication Name  
-  Date: Month Day, Year  
-  Summary: A brief summary of another important article.
-
+- [Article Title 2](https://example.com)  
+  Observer, May 13, 2025<br>
+  A brief summary of another article.
+  
+- [Article Title 2](https://example.com)  
+  Observer, May 13, 2025<br>
+  A brief summary of another article.
 
 <!--
 Publications
