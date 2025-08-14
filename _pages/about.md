@@ -13,13 +13,13 @@ About
 ======
 I am a graduate student at the Department of East Asian Languages & Civilizations, University of Pennsylvania. I received my BA with First Class Honors from The University of Hong Kong, where I double majored in art history and music and minored in French. 
 
-My current research interest is the art and archaeology of China and its frontiers. I have broad interests in global cultural heritage protection work, especially in music and regional opera.
-
+You can pronounce my name as: 【shin-yee yeh】
 
 Research Areas
 ======
-I am interested in interdisciplinary and transregional research of Chinese art. Here are some topics that interest me:
+My current research interest is the art and archaeology of China and its frontiers. I have broad interests in opera and cultural heritage preservation.
 
+Here are some topics that interest me:
 - Buddhist sites in China and Inner Asia
 - History of collecting Chinese art
 - Folk music/ethnomusicology of East Asia
