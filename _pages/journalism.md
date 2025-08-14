@@ -8,24 +8,41 @@ author_profile: true
 
 {% include base_path %}
 
-Work experience
-======
-* Sept 2023 – Present: Graduate Guide
-  * Penn Museum
+## Journalism Articles
 
-* Sept 2023 – Present: Gallery Ambassador
-  * Institute of Contemporary Art, Philadelphia
+### 2023
+- Title: [Skepticism and Asian Voices in Art: An Interview With Ken Lum]([https://example.com](https://observer.com/2025/02/arts-interview-artist-ken-lum/))  
+  Publication: Observer
+  Date: Feb 24, 2025
+  Summary: Observer connected with the Canadian-American artist to discuss his interest in defying institutional frameworks, the whitewashing of Asian American history and his approach to making public art.
 
-  
-Skills
-======
-* Chinese calligraphy and ink painting
-* Music
-  * Composing
-  * Piano
-  * Voice
-  * Samba percussion
-* Currently learning swing dance
+- Title: [Article Title 2](https://example.com)  
+  Publication: Publication Name  
+  Date: Month Day, Year  
+  Summary: A brief summary of another article.
+
+### 2022
+- Title: [Another Article Title 1](https://example.com)  
+  Publication: Publication Name  
+  Date: Month Day, Year  
+  Summary: A brief summary of an article.
+
+- Title: [Another Article Title 2](https://example.com)  
+  Publication: Publication Name  
+  Date: Month Day, Year  
+  Summary: A brief summary of a different article.
+
+### 2021
+- Title: [Important Article Title 1](https://example.com)  
+  Publication: Publication Name  
+  Date: Month Day, Year  
+  Summary: A brief summary of an important article.
+
+- Title: [Important Article Title 2](https://example.com)  
+  Publication: Publication Name  
+  Date: Month Day, Year  
+  Summary: A brief summary of another important article.
+
 
 <!--
 Publications
