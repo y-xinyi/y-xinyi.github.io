@@ -65,43 +65,13 @@ author_profile: true
   ArtAsiaPacific, Apr 29, 2024<br>
   The Met and Thailand’s Ministry of Culture signed a Memorandum to collaborate on the display and research of Thai art.
 
-### 2021
-- [Article Title 2](https://example.com)  
-  Observer, May 13, 2025<br>
-  A brief summary of another article.
-  
-- [Article Title 2](https://example.com)  
-  Observer, May 13, 2025<br>
-  A brief summary of another article.
+### 2020
+- [Chinese: 从这个 0.3+0.3=1 的合作，看香港画廊业及艺博会的内部循环和自我调剂](https://www.fineartasia.com/wp-content/uploads/2021/01/The-Art-Newspaper-China-%E8%89%BA%E6%9C%AF%E6%96%B0%E9%97%BB%E4%B8%AD%E6%96%87%E7%89%88_30.11.2020.pdf)  
+  The Art Newspaper Chinese 艺术新闻中文版, Nov 30, 2021<br>
+  典亚艺博2020携手巴塞尔艺术展在香港会议展览中心举办疫情后香港首个线下艺博会.
 
 <!--
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- [Article Title 2](https://example.com)  
+  Observer, May 13, 2025<br>
+  A brief summary of another article.
 -->
-  
-<!--
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
--->
-  
-<!--
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
-  
-Service and leadership
-======
-* Member, Graduate Student Research Colloquium
-  * Department East Asian Languages and Civilizations, University of Pennsylvania
-  
-* Department Representative
-  * SASGov (School of Arts & Science Graduate Student Government), University of Pennsylvania
