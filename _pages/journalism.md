@@ -15,10 +15,6 @@ author_profile: true
 - [Nine Must-See Art Exhibitions to Catch in Philadelphia This Spring](https://observer.com/2025/05/must-see-art-exhibitions-philadelphia-spring-2025/)  
   Observer, May 14, 2025<br>
   With Assyrian artifacts, contemporary Chinese art, controversy-inciting works by Cézanne and more, these standout shows channel the city’s rich, cross-cultural art scene.
-  
-- [Article Title 2](https://example.com)  
-  Observer, May 13, 2025<br>
-  A brief summary of another article.
 
 - [How Painter Feng Xiao-Min Bridges Cultures With His Brush of Light](https://observer.com/2025/05/arts-interview-artist-feng-xiao-min/)  
   Observer, May 13, 2025<br>
@@ -36,20 +32,30 @@ author_profile: true
   Observer, April 1, 2025<br>
   The sculptor transforms bamboo into floating, kinetic sculptures that explore the delicate balance between movement and space.
 
+- [Curator Sarah Burney On the Depth of Krishna Reddy’s Printmaking](https://observer.com/2025/03/arts-interviews-curator-sarah-burney-artist-krishna-reddy/)  
+  Observer, Mar 18, 2025<br>
+  Reddy, the subject of a new retrospective at Print Center New York, saw the sculptural possibilities within the plate.
+
+- [Her Body as a Needle: Understanding the Conceptual Work of Kimsooja](https://observer.com/2025/03/artist-interview-kimsooja-conceptual-art/)  
+  Observer, Mar 14, 2025<br>
+  Observer caught up with the Korean artist to discuss site-specificity in art-making and how her practice has evolved.
+
+- [Artist Katie Hudnall On the Slow Joy of Working With Wood](https://observer.com/2025/03/art-interviews-artist-katie-hudnalls-woodmaking/)  
+  Observer, Mar 3, 2025<br>
+  https://observer.com/2025/03/art-interviews-artist-katie-hudnalls-woodmaking/.
+
 - [Skepticism and Asian Voices in Art: An Interview With Ken Lum](https://observer.com/2025/02/arts-interview-artist-ken-lum/)<br>
   Observer, Feb 24, 2025<br>
   I connected with the Canadian-American artist to discuss his interest in defying institutional frameworks, the whitewashing of Asian American history and his approach to making public art.
 
-### 2022
-- Title: [Another Article Title 1](https://example.com)  
-  Publication: Publication Name  
-  Date: Month Day, Year  
-  Summary: A brief summary of an article.
+### 2023
+- [Article Title 2](https://example.com)  
+  Observer, May 13, 2025<br>
+  A brief summary of another article.
 
-- Title: [Another Article Title 2](https://example.com)  
-  Publication: Publication Name  
-  Date: Month Day, Year  
-  Summary: A brief summary of a different article.
+- [Article Title 2](https://example.com)  
+  Observer, May 13, 2025<br>
+  A brief summary of another article.
 
 ### 2021
 - Title: [Important Article Title 1](https://example.com)  
