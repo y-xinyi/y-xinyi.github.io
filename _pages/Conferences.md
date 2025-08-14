@@ -23,17 +23,26 @@ author_profile: true
   “You know how we do”: Popular Music and Communality<br>
   Drexel University, Philadelphia, PA, USA, Apr 2024<br>
 
+- [Reenacting the Disaster at the Post-apocalyptic Ruins: Chernobyl Tourism Photography on Instagram](https://www.mpcaaca.org/popular-culture-studies-journal)
+  Disasters and Apocalypses Panel<br>
+  Popular Culture Association 2023 Annual Conference<br>
+  San Antonio, TX, USA, Apr 2023<br> 
+
 ### Organized Panels
+
+- [Minorities and Boundary Crossing](https://web.sas.upenn.edu/ealc-gsrc/)  
+  "(Dis)Connections": 7th Graduate Student Research Colloquium<br>
+  University of Pennsylvania, Department of East Asian Languages & Civilizations<br>
+  Philadelphia, PA, USA, Apr 2025<br>
 
  - [Beethoven in Beijing](https://writing.upenn.edu/wh/calendar/0325.php)  
   A roundtable discussion with Jennifer Lin, Liza Vick, and Shelley Zhang<br>
   Kelly Writers House, University of Pennsylvania<br>
-  Philadelphia, PA, USA< Mar 2025<br>
+  Philadelphia, PA, USA, Mar 2025<br>
 
  - [Remaking Femininity: Women’s Portraiture in Modern Asian Art and Visual Culture](https://forarthistory.org.uk/conference/2023-annual-conference/)  
   Association of Art History Annual Conference 2023<br>
   UCL, London, UK, Apr 2023<br>
-
 
 ### Panel Discussions
 
