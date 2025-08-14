@@ -65,6 +65,11 @@ author_profile: true
   ArtAsiaPacific, Apr 29, 2024<br>
   The Met and Thailand’s Ministry of Culture signed a Memorandum to collaborate on the display and research of Thai art.
 
+### 2024
+- [‘Sail Forth’: Tourism, Myth, and Postindustrial Regeneration in Titanic Belfast](https://drive.google.com/file/d/1-bNDJ4Ktigx_5W2EShkcnWJrfjSVZdS_/view)  
+  HKU Art History Student Journal 1, no.1, Oct 30, 2024<br>
+  Titanic Belfast is an example of Bilbao effect that boosts postindustrial local economy by combining art, architecture, tourism with lifestyle.
+  
 ### 2020
 - [Chinese: 从这个 0.3+0.3=1 的合作，看香港画廊业及艺博会的内部循环和自我调剂](https://www.fineartasia.com/wp-content/uploads/2021/01/The-Art-Newspaper-China-%E8%89%BA%E6%9C%AF%E6%96%B0%E9%97%BB%E4%B8%AD%E6%96%87%E7%89%88_30.11.2020.pdf)  
   The Art Newspaper Chinese 艺术新闻中文版, Nov 30, 2021<br>
