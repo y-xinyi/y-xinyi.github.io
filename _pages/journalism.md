@@ -8,20 +8,35 @@ author_profile: true
 
 {% include base_path %}
 
-## Journalism Articles
+## Full Publication Portfolio:
 
-### 2023
+### 2025
 
 - [Nine Must-See Art Exhibitions to Catch in Philadelphia This Spring](https://observer.com/2025/05/must-see-art-exhibitions-philadelphia-spring-2025/)  
-  Publication: Observer, May 14, 2025<br>  
+  Observer, May 14, 2025<br>
   With Assyrian artifacts, contemporary Chinese art, controversy-inciting works by Cézanne and more, these standout shows channel the city’s rich, cross-cultural art scene.
   
-- Title: [Article Title 2](https://example.com)  
-  Publication: Publication Name  
-  Date: Month Day, Year  
-  Summary: A brief summary of another article.
+- [Article Title 2](https://example.com)  
+  Observer, May 13, 2025<br>
+  A brief summary of another article.
 
-- Title: [Skepticism and Asian Voices in Art: An Interview With Ken Lum](https://observer.com/2025/02/arts-interview-artist-ken-lum/)<br>
+- [How Painter Feng Xiao-Min Bridges Cultures With His Brush of Light](https://observer.com/2025/05/arts-interview-artist-feng-xiao-min/)  
+  Observer, May 13, 2025<br>
+  His solo show at Opera Gallery New York reveals how his Taoist-infused abstractions unite calligraphy and color-rich oil painting.
+
+- [The Walters Art Museum Shines a Light On the Toxic History of Medieval Manuscripts](https://observer.com/2025/04/exhibition-review-if-books-could-kill-walters-art-museum/)  
+  Observer, April 25, 2025<br>
+  "If Books Could Kill" reveals the deadly history of manuscript production and the impact on bookmakers’—and readers'—health.
+
+- [How Andrea Fraser Turned Institutional Critique Into a Lifelong Practice](https://observer.com/2025/04/arts-interview-artist-andrea-fraser-performance-art-installation/)  
+  Observer, April 17, 2025<br>
+  The artist reflected on the politics of making art, teaching with purpose and holding museums accountable in a spectacle-driven culture.
+
+- [Laurent Martin “Lo” and the Art of Bending Nature Without Breaking It](https://observer.com/2025/04/art-interview-artist-laurent-martin-lo-celestial-equilibre-10-chancery-lane-gallery/)  
+  Observer, April 1, 2025<br>
+  The sculptor transforms bamboo into floating, kinetic sculptures that explore the delicate balance between movement and space.
+
+- [Skepticism and Asian Voices in Art: An Interview With Ken Lum](https://observer.com/2025/02/arts-interview-artist-ken-lum/)<br>
   Observer, Feb 24, 2025<br>
   I connected with the Canadian-American artist to discuss his interest in defying institutional frameworks, the whitewashing of Asian American history and his approach to making public art.
 
