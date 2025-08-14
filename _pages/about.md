@@ -1,29 +1,28 @@
 ---
 permalink: /
-title: "Xinyi Ye's personal websites"
+title: "Xinyi Ye's Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I'm Xinyi, a graduate student researching material and sound culture. Welcome to my cyber space!
+Hi! I'm Xinyi, a graduate student researching Chinese art & archaeology.
 
 About
 ======
 I am a graduate student at the Department of East Asian Languages & Civilizations, University of Pennsylvania. I received my BA with First Class Honors from The University of Hong Kong, where I double majored in art history and music and minored in French. 
 
-My current research interest is material and sound culture in late Qing Dynasty and Republican China, with a focus on Sino-American interactions. Meanwhile, I have broad interests in global cultural heritage protection work, especially in archaeology and folk music.
+My current research interest is the art and archaeology of China and its frontiers. I have broad interests in global cultural heritage protection work, especially in music and regional opera.
 
 
 Research Areas
 ======
-I am interested in interdisciplinary and transregional research on a variety of humanities subjects. Here are some topics that interest me:
+I am interested in interdisciplinary and transregional research of Chinese art. Here are some topics that interest me:
 
-- East Asian textiles
-- Historiography of Chinese art history & material culture
-- Folk music/ethnomusicology of East Asia and the Americas
-- Global Jazz
+- Buddhist sites in China and Inner Asia
+- History of collecting Chinese art
+- Folk music/ethnomusicology of East Asia
 - Cultural heritage site protection and tourism
 - Digital humanities
 
@@ -31,8 +30,6 @@ I am also interested in exploring unconventional/multimedia publication forms fo
 
 Contact
 ------
-I can be reached via email at xinyiye@sas.upenn.edu.
+I can be reached via email at xinyiye@sas.upenn.edu or yexinyixy@gmail.com.
 
-Feel free to contact me for any reason, such as research collaboration, learning about college/graduate school experience, or simply finding someone to chitchat. 
-
-I believe free open access to information helps create equality in the world, and that’s why I love to share my stories. Please do not hesitate to reach out to me so we can bridge the gap!
+I believe that free open access to information helps create equality in the world. Please do not hesitate to reach out!
