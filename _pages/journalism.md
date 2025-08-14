@@ -11,15 +11,19 @@ author_profile: true
 ## Journalism Articles
 
 ### 2023
-- Title: [Skepticism and Asian Voices in Art: An Interview With Ken Lum](https://observer.com/2025/02/arts-interview-artist-ken-lum/)
-  Publication: Observer
-  Date: Feb 24, 2025
-  Summary: Observer connected with the Canadian-American artist to discuss his interest in defying institutional frameworks, the whitewashing of Asian American history and his approach to making public art.
 
+- [Nine Must-See Art Exhibitions to Catch in Philadelphia This Spring](https://observer.com/2025/05/must-see-art-exhibitions-philadelphia-spring-2025/)  
+  Publication: Observer, May 14, 2025<br>  
+  With Assyrian artifacts, contemporary Chinese art, controversy-inciting works by Cézanne and more, these standout shows channel the city’s rich, cross-cultural art scene.
+  
 - Title: [Article Title 2](https://example.com)  
   Publication: Publication Name  
   Date: Month Day, Year  
   Summary: A brief summary of another article.
+
+- Title: [Skepticism and Asian Voices in Art: An Interview With Ken Lum](https://observer.com/2025/02/arts-interview-artist-ken-lum/)<br>
+  Observer, Feb 24, 2025<br>
+  I connected with the Canadian-American artist to discuss his interest in defying institutional frameworks, the whitewashing of Asian American history and his approach to making public art.
 
 ### 2022
 - Title: [Another Article Title 1](https://example.com)  
