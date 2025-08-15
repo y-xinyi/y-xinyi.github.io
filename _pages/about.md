@@ -10,13 +10,13 @@ redirect_from:
 Hi! I'm Xinyi, a graduate student researching Chinese art & archaeology.
 
 About
-======
+------
 I am a graduate student at the Department of East Asian Languages & Civilizations, University of Pennsylvania. I received my BA with First Class Honors from The University of Hong Kong, where I double majored in art history and music and minored in French. 
 
 You can pronounce my name as: 【shin-yee yeh】
 
 Research Areas
-======
+------
 My current research interest is the art and archaeology of China and its frontiers. I have broad interests in opera and cultural heritage preservation.
 
 Here are some topics that interest me:
