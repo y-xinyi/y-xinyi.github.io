@@ -12,11 +12,11 @@ author_profile: true
 
 - [The Butterfly (Lovers) Effect: Opera Reform and Composition in Western Idiom in the Chinese Yue Opera Film The Butterfly Lovers 1953](https://chicago2024.ams-net.org/wp-content/uploads/2024/11/Final_Program_Guide.pdf)  
   American Musicological Society Annual Meeting<br>
-  Chicago, IL, 2024<br>
+  Chicago, IL, USA, 2024<br>
 
 - [Chinese Opera in Pop Music: A Revival of Tradition?](https://networks.h-net.org/group/announcements/20012432/cfp-asian-sound-cultures-conference-18-19-september-2024)  
   Asian Sound Cultures Conference<br>
-  University of Sheffield, UK/Online, Sep 2024<br>
+  University of Sheffield, UK/online, Sep 2024<br>
 
 - [Shanghai Night’: Shidai Qu (Songs of the Time) and Modern Shanghai Jazz Age](https://iaspm-us.wildapricot.org/2024-Conference-Program)
   International Association for the Study of Popular Music, US Branch Conference<br>
@@ -28,7 +28,7 @@ author_profile: true
   Popular Culture Association 2023 Annual Conference<br>
   San Antonio, TX, USA, Apr 2023<br> 
 
-### Organized Panels
+### Organized Conferences & Panels
 
 - [Minorities and Boundary Crossing](https://web.sas.upenn.edu/ealc-gsrc/)  
   "(Dis)Connections": 7th Graduate Student Research Colloquium<br>
@@ -48,9 +48,9 @@ author_profile: true
 
 - [Chinese Opera in Pop Music: A Revival of Tradition?](https://networks.h-net.org/group/announcements/20012432/cfp-asian-sound-cultures-conference-18-19-september-2024)  
   Asian Sound Cultures Conference<br>
-  University of Sheffield, UK/Online, Sep 2024<br>
+  University of Sheffield, Sheffield, UK/online, Sep 2024<br>
 
 - [Book Review Graduate Roundtable Discussant](https://www.asianstudies.org/events/nycas-fall-2023-book-presentation-and-discussion/)<br>
   Albert Welter, The Future of China’s Past: Reflections on the Meaning of China’s Rise (2023, SUNY Press)<br>
   New York Conference on Asian Studies Annual Meeting
-  online, 2023
+  Online, 2023
