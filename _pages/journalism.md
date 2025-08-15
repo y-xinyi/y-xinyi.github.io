@@ -42,11 +42,11 @@ author_profile: true
 
 - [Artist Katie Hudnall On the Slow Joy of Working With Wood](https://observer.com/2025/03/art-interviews-artist-katie-hudnalls-woodmaking/)  
   Observer, Mar 3, 2025<br>
-  https://observer.com/2025/03/art-interviews-artist-katie-hudnalls-woodmaking/.
+  Salvaging discarded furniture and construction materials, the artist finds poetic meaning in wood’s ability to record personal histories.
 
 - [Skepticism and Asian Voices in Art: An Interview With Ken Lum](https://observer.com/2025/02/arts-interview-artist-ken-lum/)<br>
   Observer, Feb 24, 2025<br>
-  I connected with the Canadian-American artist to discuss his interest in defying institutional frameworks, the whitewashing of Asian American history and his approach to making public art.
+  Observer connected with the Canadian-American artist to discuss his interest in defying institutional frameworks, the whitewashing of Asian American history and his approach to making public art.
 
 ### 2024
 - [Resisting Order and Power in ‘Le Contre-Ciel’](https://artasiapacific.com/shows/resisting-order-and-power-in-le-contre-ciel)  
@@ -65,9 +65,9 @@ author_profile: true
   ArtAsiaPacific, Apr 29, 2024<br>
   The Met and Thailand’s Ministry of Culture signed a Memorandum to collaborate on the display and research of Thai art.
 
-### 2024
+### 2022
 - [‘Sail Forth’: Tourism, Myth, and Postindustrial Regeneration in Titanic Belfast](https://drive.google.com/file/d/1-bNDJ4Ktigx_5W2EShkcnWJrfjSVZdS_/view)  
-  HKU Art History Student Journal 1, no.1, Oct 30, 2024<br>
+  HKU Art History Student Journal 1, no.1, Oct 30, 2022<br>
   Titanic Belfast is an example of Bilbao effect that boosts postindustrial local economy by combining art, architecture, tourism with lifestyle.
   
 ### 2020
