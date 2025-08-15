@@ -16,22 +16,29 @@ Education
 
 Work experience
 ======
-* Sept 2023 – Present: Graduate Guide
-  * Penn Museum
+* Jan 2025 – May 2025: Grader
+  * University of Pennsylvania, Philadelphia, PA
+  * "The Religion of Anime" with Prof Jolyon Thomas (Department of Religious Studies)
 
-* Sept 2023 – Present: Gallery Ambassador
-  * Institute of Contemporary Art, Philadelphia
+* Jan 2025 – May 2025: Arts Editorial Intern
+  * Observer, New York, NY
+  * Contributor's profile: https://observer.com/author/xinyi-ye/
+ 
+* Apr 2024 – May 2024: Editorial Intern
+  * ArtAsiaPacific Magazine, Hong Kong SAR
 
-  
-Skills
-======
-* Chinese calligraphy and ink painting
-* Music
-  * Composing
-  * Piano
-  * Voice
-  * Samba percussion
-* Currently learning swing dance
+* Sept 2024 – Present: Graduate Research Assistant
+  * Penn Museum, Philadelphia, PA
+  * PI: Prof Lynn Meskell, Project: NATO, Cultural Property Protection, and Securitization
+    
+* Sept 2023 – May 2025: Graduate Guide
+  * Penn Museum, Philadelphia, PA
+
+* Sept 2023 – May 2025: Gallery Ambassador
+  * Institute of Contemporary Art, Philadelphia, PA
+ 
+* May 2022 – Aug 2022: Student Archaeologist & Research Assistant
+  * Ararat Plain Southeast Archaeological Project, Vedi, Armenia
 
 <!--
 Publications
@@ -59,8 +66,27 @@ Teaching
   
 Service and leadership
 ======
-* Member, Graduate Student Research Colloquium
+* 2024-2025, Chair, Graduate Student Research Colloquium
   * Department East Asian Languages and Civilizations, University of Pennsylvania
   
-* Department Representative
+* 2023-2025, Department Representative
   * SASGov (School of Arts & Science Graduate Student Government), University of Pennsylvania
+
+* 2022-2023, Co-Founder & Editor-in-chief
+  * The University of Hong Kong Student Art History Journal (HKUAH)
+ 
+Skills
+======
+* Studio Art: Chinese calligraphy and ink painting
+* Music: Composition, Piano, Voice (Classical & Jazz), Samba percussion
+* Dance: Now learning swing dance
+* Software: Agisoft Metashape, Adobe Audition, Adobe Photoshop, Microsoft Office
+* Coding: Basic html and latex  (as seen on this website)
+
+Languages
+======
+* Chinese: Mandarin: Native; Wu Chinese: Native; Cantonese: Proficient
+* English: Near native
+* French: Proficient
+* Japanese: Elementary
+
